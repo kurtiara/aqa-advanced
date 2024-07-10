@@ -1,0 +1,10 @@
+let string = "Test";
+console.log (string);
+let number = 2408;
+console.log (number);
+let boolean = true;
+console.log(boolean);
+let x = null;
+console.log (x);
+let undefined;
+console.log (undefined);
